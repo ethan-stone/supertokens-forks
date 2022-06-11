@@ -1,0 +1,6 @@
+[submodule "supertokens-docker-mysql"]
+	path = supertokens-docker-mysql
+	url = ./supertokens-docker-mysql
+[submodule "supertokens-docker-postgresql"]
+	path = supertokens-docker-postgresql
+	url = ./supertokens-docker-postgresql
