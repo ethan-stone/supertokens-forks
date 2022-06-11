@@ -1,6 +1,6 @@
 [submodule "supertokens-docker-mysql"]
 	path = supertokens-docker-mysql
-	url = ./supertokens-docker-mysql
+	url = git@github.com:ethan-stone/supertokens-docker-mysql.git
 [submodule "supertokens-docker-postgresql"]
 	path = supertokens-docker-postgresql
-	url = ./supertokens-docker-postgresql
+	url = git@github.com:ethan-stone/supertokens-docker-postgresql.git
